@@ -1,0 +1,42 @@
+body {
+    background-color: #E5E2E5;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center;
+    
+}
+.logo {
+    opacity: 50%;
+}
+.logo:hover {
+    opacity: 100%;
+}
+a {
+    text-decoration: none;
+    color: grey;
+}
+a:hover {
+    color: red;
+}
+.selec {
+    color: red;
+}
+.cat {
+    padding-top: 30px;
+    font-size: 24px;
+}
+.navi {
+    position: absolute;
+}
+.herotxt {
+    position: absolute;
+    top: 30%;
+}
+.herotitle {
+    font-size: 72px;
+    color: rgb(86, 90, 94);
+}
+.herop {
+    padding-top: 15px;
+    font-size: 24px;
+}
